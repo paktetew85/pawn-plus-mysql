@@ -1,10 +1,9 @@
 {
-	"user": "AGraber",
+	"user": "paktetew85",
 	"repo": "pawn-plus-mysql",
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
-		"sampctl/samp-stdlib",
-		"IllidanS4/PawnPlus:v1.0.0-pre4"
+		"sampctl/samp-stdlib"
 	]
 }
